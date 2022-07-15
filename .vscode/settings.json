@@ -4,6 +4,7 @@
         "random": "c",
         "limits": "c",
         "semaphore": "c",
-        "stdio.h": "c"
+        "stdio.h": "c",
+        "STRUCTURE.C": "cpp"
     }
 }
