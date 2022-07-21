@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main(){
-    int a[10][10],b[10][10],r,c,i,j,k;
+    int a[10][10],b[10][10],r,c,i,j,k,mul;
 
     printf("enter the number of row : ");
     scanf("%d",&r);
