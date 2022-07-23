@@ -4,7 +4,7 @@ int main(){
 
 int a[10][10],b[10][10],mul[10][10],r,c,i,j,k;
 
-printf("enter the number of row=");
+printf("enter the Number of row=");
 scanf("%d",&r);
 printf("enter the number of column=");
 scanf("%d",&c);
